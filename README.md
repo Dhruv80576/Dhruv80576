@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=Dhruv80576&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 
 <h1 align="center">Hi 👋, I'm Dhruv Agrawal</h1>
 <h3 align="center">A passionate developer from India</h3>
@@ -15,6 +15,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv80576&" alt="dhruv80576" /></p>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Dhruv80576&label=Profile%20Views&color=2&icon=5&pretty=true" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=Dhruv80576&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
