@@ -15,4 +15,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv80576&" alt="dhruv80576" /></p>
 
+[![An image of @dhruv80576's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhruv80576)](https://holopin.io/@dhruv80576)
 [![](https://visitcount.itsvg.in/api?id=Dhruv80576&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
